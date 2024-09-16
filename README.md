@@ -1,2 +1,4 @@
 # Unittesting_Exercise
-In this project my mentees are required to fork and complete the work by refereing to the read me file provided.This will teach them how to depend on a given read me file to understand what is required of them on a specific repo
+In this project, you as a mentee must fork and complete the work by referring to the read-me file provided. This will teach them how to depend on a given read-me file to understand what is required of you on a specific repo.
+
+
